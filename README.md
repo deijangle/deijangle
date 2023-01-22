@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 -->
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=deijangle&show_icons=true&theme=tokyonight"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deijangle&show_icons=true&theme=tokyonight">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=deijangle&show_icons=true&theme=tokyonight"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deijangle&show_icons=true&theme=tokyonight">
 
 
 <div style="display: inline_block"><br>
