@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 -->
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api?username=deijangle&show_icons=true&theme=tokyonight"><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deijangle&show_icons=true&theme=tokyonight">
+<img width="65%" src="https://github-readme-stats.vercel.app/api?username=deijangle&show_icons=true&theme=tokyonight"><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deijangle&show_icons=true&theme=tokyonight">
 
 
 <div style="display: inline_block"><br>
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
   <img align="center" alt="nodeJs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="trello" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
   <img align="center" alt="vscode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"><br/>
